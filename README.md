@@ -1,5 +1,5 @@
 # Custom_Macropad
-I made a Custom 16 key macropad with a trackball. It uses a Seeed studio Xiao Esp32-c3, a PMW3360DM-T2QU optical trackball sensor and some Linear mechanical switches. 
+I made a Custom 16 key macropad with a trackball. It uses a Seeed studio Xiao Esp32-c3, a PMW3360DM-T2QU optical trackball sensor and 16 Linear mechanical switches. 
 
 ## Why I Made This
 I designed this project to make a macropad for CAD and PCB designing and I added the track ball to test my technical abilty and also make this Macropad an all in one that I could carry on the go (I travel a lot). 
